@@ -1,4 +1,4 @@
-Steps for setting up Pseudo-distributed mode on OS X El Capitan. 
+<b> Step by step approach for setting up Pseudo-distributed mode on OS X El Capitan. </b>
 
 1. Check if Java is installed. 
 
@@ -43,3 +43,5 @@ Steps for setting up Pseudo-distributed mode on OS X El Capitan.
       /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home
 
   
+    <b>References</b> - 
+    [Hadoop Wiki](https://wiki.apache.org/hadoop/Running_Hadoop_On_OS_X_10.5_64-bit_(Single-Node_Cluster))
