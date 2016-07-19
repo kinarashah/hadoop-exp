@@ -35,7 +35,7 @@
   Change - 
   
       export JAVA_HOME={Java_Home_Directory} 
-      export HADOOP_CONF_DIR = /Users/kshah/Documents/hadoop-2.7.2/etc/hadoop {Hadoop_Directory/etc/hadoop}
+      export HADOOP_HOME = /Users/kshah/Documents/hadoop-2.7.2/ {Hadoop_Directory}
   
   Note - Java home directory can be found by: 
   
